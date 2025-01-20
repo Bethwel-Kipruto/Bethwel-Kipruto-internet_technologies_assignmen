@@ -54,22 +54,7 @@
       "description": "Ultra fast 330 Watt charger",
       "cost": "200 KSH per hour",
       "compatibility":"EVs with up to 1000 Watt batteries"
-    },
-
-    {
-      "id": 7,
-      "location": "RUNDA, MONGOLIA CLOSE",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAohgdukLqG9l-cgQf6DLZxLe2ZvUnSBM8Q&usqp=CAU",
-      "description": "Ultra fast 330 Watt charger",
-      "cost": "200 KSH per hour",
-      "compatibility":"EVs with up to 1000 Watt batteries"
     }
-
-
-
-    
-
-    
 
   ]
 }
