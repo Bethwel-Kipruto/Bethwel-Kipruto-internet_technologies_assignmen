@@ -1,5 +1,5 @@
 // fetching data
-const url ="http://localhost:3000/chargers"
+const url ="https://my-json-server.typicode.com/Bethwel-Kipruto/Bethwel-Kipruto-internet_technologies_assignmen/chargers"
 fetch(url)
   .then(res => res.json())
   .then(chargers => chargers.forEach(chargers=> displayChargers(chargers)));
